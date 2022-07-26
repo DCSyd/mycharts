@@ -3,7 +3,7 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-25T21:05:07.574952+10:00"
+    created: "2022-07-26T10:10:12.933051+10:00"
     description: A Helm chart for Kubernetes
     digest: b087e8233c1973716dc31071ecfc5ae804f357bbd0f37e75de844d2a4ef73e73
     name: app1
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-25T21:05:07.574294+10:00"
+    created: "2022-07-26T10:10:12.932604+10:00"
     description: A Helm chart for Kubernetes
     digest: c20046b3a03cb6f8703f403f6ca550fa531ef28ed3ba08c75f3277dc97896e0c
     name: app1
@@ -24,7 +24,17 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-25T21:05:07.575422+10:00"
+    created: "2022-07-26T10:10:12.933764+10:00"
+    description: A Helm chart for Kubernetes
+    digest: 915c82a42626a12cfb7d30cc1ecee19287ed36f604fb87ea19358732a8187461
+    name: app2
+    type: application
+    urls:
+    - https://github.com/DCSyd/mycharts/app2-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-26T10:10:12.933416+10:00"
     description: A Helm chart for Kubernetes
     digest: 78b366827345568f55620be132f7eb49d14065cc4413cabfc702138919ff486f
     name: app2
@@ -35,7 +45,7 @@ entries:
   app3:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-25T21:05:07.57575+10:00"
+    created: "2022-07-26T10:10:12.934159+10:00"
     description: A Helm chart for Kubernetes
     digest: 6a0d208156e1489957a8bedf58412ae2895746db6c00b1bbac471245672cab18
     name: app3
@@ -43,4 +53,4 @@ entries:
     urls:
     - https://github.com/DCSyd/mycharts/app3-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-25T21:05:07.573142+10:00"
+generated: "2022-07-26T10:10:12.932005+10:00"
